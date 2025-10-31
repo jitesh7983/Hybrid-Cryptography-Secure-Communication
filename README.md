@@ -38,7 +38,7 @@ It demonstrates the **CIA Triad** — Confidentiality, Integrity, and Authentica
 ## 📸 Screenshots
 ![preiew](Screenshot/1st.png)
 ![preiew](Screenshot/2nd.png)
-![preiew](Screenshot/3rd-3.png)
+![preiew](Screenshot/3rd.png)
 
 
 ---
